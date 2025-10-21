@@ -1,2 +1,2 @@
 # Calculator-Model
-new repo
+Simple calculator with some features and functions are in working condition.
